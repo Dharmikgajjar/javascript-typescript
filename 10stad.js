@@ -1,0 +1,10 @@
+"use strict";
+let str = "250";
+let str1 = "150";
+let num = Number(str);
+let num1 = Number(str1);
+let stn = num;
+let stn1 = num1;
+let sum = num + num1;
+console.log(`conversion of string to number : ${stn} and ${stn1}`);
+console.log(`Sum of 250 + 150  : ${sum}`);
